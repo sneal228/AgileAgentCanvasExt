@@ -62,8 +62,8 @@ CDATA*
 *.py
 *.7z
 .c8rc.json
-package-lock.json
-agileagentcanvas-*.vsix
+package-lock
+bmad-studio-*.vsix
 fix-sample-metadata.js
 search.js
 refactor_logger.js
